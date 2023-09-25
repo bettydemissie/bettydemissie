@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Bethelham Demissie! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-</br><p><em>Software Enginner at <a href="http://www.unb.br">University of Wesminster</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Wesminster</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 
