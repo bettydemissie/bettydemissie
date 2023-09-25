@@ -1,9 +1,7 @@
 
 <h2> Hi, I'm Bethelham Demissie! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Wesminster</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-<p><em>Based in <a href="http://www.unb.br">London, UK</a></em></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 ```javascript
 const betty = {
