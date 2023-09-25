@@ -1,8 +1,7 @@
 
 <h2> Hi, I'm Bethelham Demissie! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Wesminster</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
-
+<p><em>Based in <a href="http://www.unb.br">London, UK</a></em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -16,10 +15,15 @@ const betty = {
   fitness: "Gym and Sports",
   tech: "Exploring new tech innovations",
 };
+ contactInfo: {
+    linkedin: "https://www.linkedin.com/in/bethelham-demissie-84b958216e",
+    twitter: "betheldemis",
+    email: "betheldemis@yahoo.co.uk",
+  },
                       },
  challenge: "I am doing the #100DaysOfCode challenge"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi!</b></em>
 
