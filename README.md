@@ -6,7 +6,7 @@
 ```javascript
 const betty = {
   pronouns: "she" | "her",
-  code: [C#, Javascript, Typescript, CSS, Swift UI, Python, Java],
+  code: [C#, Javascript, Typescript, CSS, SwiftUI, Python, Java],
   tools: [React, Node, Figma, Git],
   hobbies: {
     fitness: "Gym and Sports",
