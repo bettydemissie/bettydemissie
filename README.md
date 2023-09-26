@@ -6,12 +6,12 @@
 ```javascript
 const betty = {
   pronouns: "she" | "her",
-  code: ["C#", "Javascript", "Typescript", "CSS", "Swift UI", "Python", "Java"],
-  tools: ["React", "Node", "Figma", "Git"],
+  code: [C#, Javascript, Typescript, CSS, Swift UI, Python, Java],
+  tools: [React, Node, Figma, Git],
   hobbies: {
-    color: "green",
     fitness: "Gym and Sports",
     tech: "Exploring new tech innovations",
+    reading: "Self help books"
   },
   contactInfo: {
     linkedin: "https://www.linkedin.com/in/bethelham-demissie-84b958216e",
