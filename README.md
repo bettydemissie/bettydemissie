@@ -6,21 +6,20 @@
 ```javascript
 const betty = {
   pronouns: "she" | "her",
-  code: [C#, Javascript, Typescript, CSS, Swift UI, Python, Java],
-  tools: [React, Node, Figma, Git],
+  code: ["C#", "Javascript", "Typescript", "CSS", "Swift UI", "Python", "Java"],
+  tools: ["React", "Node", "Figma", "Git"],
   hobbies: {
-  color: "green",
-  fitness: "Gym and Sports",
-  tech: "Exploring new tech innovations",
-};
- contactInfo: {
+    color: "green",
+    fitness: "Gym and Sports",
+    tech: "Exploring new tech innovations",
+  },
+  contactInfo: {
     linkedin: "https://www.linkedin.com/in/bethelham-demissie-84b958216e",
     twitter: "betheldemis",
     email: "betheldemis@yahoo.co.uk",
   },
-                      },
- challenge: "I am doing the #100DaysOfCode challenge"
-}
+  challenge: "I am doing the #100DaysOfCode challenge"
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>hi!</b></em>
