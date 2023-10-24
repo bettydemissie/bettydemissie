@@ -14,8 +14,8 @@ const betty = {
     reading: "Self help books"
   },
   contactInfo: {
-    linkedin: "https://www.linkedin.com/in/bethelham-demissie-84b958216e",
-    twitter: "betheldemis",
+    linkedin: "https://www.linkedin.com/in/bethelham-demissie-84b958216/",
+    twitter: "_callmebetty",
     email: "betheldemis@yahoo.co.uk",
   },
   challenge: "I am doing the #100DaysOfCode challenge"
