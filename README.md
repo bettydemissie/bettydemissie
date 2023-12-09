@@ -5,20 +5,18 @@
 
 ```javascript
 const betty = {
-  pronouns: "she" | "her",
-  code: [C#, Javascript, Typescript, CSS, SwiftUI, Python, Java],
+  mainlangauges: [C#, Javascript, Typescript, CSS, SwiftUI, Python, Java],
   tools: [React, Node, Figma, Git],
   hobbies: {
-    fitness: "Gym and Sports",
-    tech: "Exploring new tech innovations",
+    fitness: "Gym and Basketball",
+    tech: "Blockchain Technology, Upskilling, New tech innovation",
     reading: "Self help books"
   },
   contactInfo: {
     linkedin: "https://www.linkedin.com/in/bethelham-demissie-84b958216/",
     twitter: "_callmebetty",
     email: "betheldemis@yahoo.co.uk",
-  },
-  challenge: "I am doing the #100DaysOfCode challenge"
+  }
 };
 ```
 
