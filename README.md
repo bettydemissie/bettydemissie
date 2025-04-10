@@ -6,7 +6,7 @@
 ```javascript
 const betty = {
   mainlangauges: [C#, Java, TypeScript, Python, SQL],
-  toolsandframeworks: [React, Node.js, Git, Figma, CSS, scripting],
+  toolsandframeworks: [React, Nodejs, Git, Figma, CSS,
   hobbies: {
     fitness: "Gym and Basketball",
     tech: "Blockchain Technology, Upskilling, New tech innovation",
