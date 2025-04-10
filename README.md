@@ -5,8 +5,8 @@
 
 ```javascript
 const betty = {
-  mainlangauges: [C#, Javascript, Typescript, CSS, SwiftUI, Python, Java],
-  tools: [React, Node, Figma, Git],
+  mainlangauges: [C#, Java, TypeScript, Python, SQL],
+  toolsandframeworks: [React, Node.js, Git, Figma, CSS, scripting],
   hobbies: {
     fitness: "Gym and Basketball",
     tech: "Blockchain Technology, Upskilling, New tech innovation",
@@ -20,5 +20,5 @@ const betty = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>hi!</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with new people</b> so feel free to say <b>hi!</b></em>
 
